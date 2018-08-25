@@ -1,7 +1,7 @@
 {
   "name": "candice/aliyun_oss_sts",
+  "description": "aliyun oss sts",
   "license": "MIT",
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "yj0630",
