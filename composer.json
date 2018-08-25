@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Candice\\Aliyun_OSS_STS": "src/"
+      "Candice\\Aliyun_OSS_STS\\": "src/"
     }
   }
 }
