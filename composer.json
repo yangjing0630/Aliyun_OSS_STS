@@ -1,0 +1,19 @@
+{
+  "name": "candice/aliyun_oss_sts",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yj0630",
+      "email": "591813762@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Candice\\Aliyun_OSS_STS": "src/"
+    }
+  }
+}
